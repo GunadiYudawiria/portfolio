@@ -1,0 +1,33 @@
+header.masthead {
+  text-align: center;
+  color: white;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+
+}
+#services {
+  margin: 100px 0;
+  text-transform: none;
+}
+#portfolio {
+  margin: 100px 0;
+  text-transform: none;
+}
+#about {
+  margin: 100px 0;
+  text-transform: none;
+}
+#about-me {
+  margin: 100px 0;
+  text-transform: none;
+}
+#contact {
+  margin: 100px 0;
+  text-transform: none;
+}
+footer {
+	background-color: #CCCCCCFF;
+	padding: 10px;
+}
